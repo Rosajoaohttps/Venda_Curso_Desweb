@@ -1,0 +1,16 @@
+/*
+Estilização da pagina Login_page
+*/
+.form_OpenCss{
+    width: 25%;
+    height: 45%;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid #aaaa7f; border-radius: 5%;    
+}
+.Container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
